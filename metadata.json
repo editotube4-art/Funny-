@@ -1,0 +1,6 @@
+{
+  "name": "FunnyDose",
+  "description": "A viral social media platform for short videos, memes, jokes, and community sharing with AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
